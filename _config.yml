@@ -4,11 +4,11 @@
 
 # Site
 title: '流浪者的博客'
-subtitle: '逃离国内的审查'
+subtitle: 'github是唯一不被删帖、不被封锁的网站，自由的乐土。尽情的创作吧！'
 description: 'github是唯一不受审查又不被封锁的网站(会被gfw故意阻慢访问速度)'
 keywords:
 author: 流浪者
-language: zh-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: landscape-plus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
