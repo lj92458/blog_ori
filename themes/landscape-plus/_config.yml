@@ -33,8 +33,9 @@ google_plus:
 fb_admins: 
 fb_app_id:
 
-# Duoshuo
-duoshuo_shortname: reqianduan
+# 评论系统
+duoshuo_shortname: your_shortname
+disqus_shortname: your_shortname
 
 # Baidu share
 baidushare: true
