@@ -2,6 +2,7 @@
 menu:
   主页: /
   归档: /archives
+  知乎: https://www.zhihu.com/people/liu-mou-ren-34-33
 rss: /atom.xml
 
 # Content
@@ -23,7 +24,8 @@ widgets:
 links:
   个人主页: https://afdian.net/a/lj92458?tab=feed
   抖音福利: https://www.douyin.com/user/MS4wLjABAAAAVH9WuKlaNpy_bX0piLR9sK1GWkCfXdTv-NUcyG2dyyk
-  远程.work: https://afdian.net/a/lj92458?tab=feed
+  知乎: https://www.zhihu.com/people/liu-mou-ren-34-33
+  twitter: https://twitter.com/liulangzhe_lj
 
 # Miscellaneous
 google_analytics:
